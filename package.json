@@ -1,0 +1,21 @@
+{
+  "name": "requirejs",
+  "version": "0.0.1",
+  "description": "a simple browser require expose to make node and browser call sane",
+  "main": "require.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/influx6/requirejs"
+  },
+  "keywords": [
+    "require",
+    "browser",
+    "require"
+  ],
+  "author": "Alexander Adeniyin Ewetumo",
+  "license": "mit",
+  "gitHead": "08234472600547a608202a58f749ec288e7516b8"
+}
