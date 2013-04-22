@@ -1,19 +1,19 @@
 {
-  "name": "requirejs",
+  "name": "loadjs",
   "version": "0.0.1",
-  "description": "a simple browser require expose to make node and browser call sane",
-  "main": "require.js",
+  "description": "a simple browser js loader expose to make node and browser call sane",
+  "main": "load.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/influx6/requirejs"
+    "url": "http://github.com/influx6/loadjs"
   },
   "keywords": [
-    "require",
+    "loader",
     "browser",
-    "require"
+    "require equivalent"
   ],
   "author": "Alexander Adeniyin Ewetumo",
   "license": "mit",

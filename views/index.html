@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+	<title>RequireJS Sanity Check!</title>
+	<script class='loader' type="text/javascript" src="modules/load.js"></script>
+	<script type="text/javascript">
+		load('loopy/fus.js','fusion.js'/*,'http://localhost:3000/load.js'*/,function(){
+			console.log('loaded!',fuss,fusions,this.meta);
+		},{
+			offlinePath:"/Volumes/HOME/Projects/me/loadjs/"
+		});
+	</script>
+</head>
+<body>
+
+</body>
+</html>
